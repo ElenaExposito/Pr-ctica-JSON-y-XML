@@ -1,0 +1,214 @@
+[
+  {
+    "nombre": "Mercadona",
+    "direccion": "C. Sta. Rosa, 10, 14006 Córdoba",
+    "geolocalizacion": {
+      "longitud": "-4.778886109421728",
+      "latitud": "37.897017468672765"
+    },
+    "horario": "9:00 a.m. a 21:30 p.m.",
+    "secciones": [
+      {
+        "nombre": "frutería y verdulería",
+        "productos": [
+          {
+            "nombre": "patatas",
+            "descripción": "patatas guarnición",
+            "origen": "francia",
+            "perecedero": true,
+            "ofertas": {
+              "descuento": 0.16,
+              "periodoVigencia": "30/3/2023"
+            },
+            "habitual": true,
+            "unidades": 8,
+            "peso": "1 kg",
+            "precio": 2.16,
+            "fechaEntrada": "27/3/2023 5:00 a.m.",
+            "adquirido": true
+          },
+          {
+            "nombre": "lechuga",
+            "descripción": "lechuga iceberg",
+            "origen": "españa",
+            "perecedero": true,
+            "habitual": false,
+            "unidades": 1,
+            "peso": "0.7 kg",
+            "precio": 1.39,
+            "fechaEntrada": "27/3/2023 5:00 a.m.",
+            "adquirido": false
+          }
+        ]
+      },
+      {
+        "nombre": "charcutería y carnicería",
+        "productos": [
+          {
+            "nombre": "hamburguesas",
+            "descripción": "hamburguesa de vacuno y cerdo",
+            "origen": "españa",
+            "perecedero": true,
+            "habitual": true,
+            "unidades": 6,
+            "peso": "0.54 kg",
+            "precio": 3.9,
+            "fechaEntrada": "27/3/2023 5:00 a.m.",
+            "adquirido": false
+          },
+          {
+            "nombre": "carne picada",
+            "descripción": "preparado de carne picada vacuno y cerdo",
+            "origen": "españa",
+            "perecedero": true,
+            "habitual": false,
+            "unidades": 1,
+            "peso": "0.5 kg",
+            "precio": 3.8,
+            "fechaEntrada": "27/3/2023 5:00 a.m.",
+            "adquirido": false
+          },
+          {
+            "nombre": "pinchos",
+            "descripción": "pinchos de cerdo con varilla",
+            "origen": "españa",
+            "perecedero": true,
+            "ofertas": {
+              "descuento": 0.6,
+              "periodoVigencia": "31/3/2023"
+            },
+            "habitual": false,
+            "unidades": 4,
+            "peso": "0.302 kg",
+            "precio": 3.6,
+            "fechaEntrada": "27/3/2023 5:00 a.m.",
+            "adquirido": false
+          }
+        ]
+      },
+      {
+        "nombre": "arroz, legumbres y pasta",
+        "productos": [
+          {
+            "nombre": "arroz",
+            "descripción": "arroz redondo",
+            "origen": "españa",
+            "perecedero": false,
+            "habitual": true,
+            "unidades": 1,
+            "peso": "1 kg",
+            "precio": 1.3,
+            "fechaEntrada": "27/3/2023 5:00 a.m.",
+            "adquirido": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Carrefour",
+    "direccion": "Carrefour, C. Poeta Emilio Prados, s/n, 14011 Córdoba",
+    "geolocalizacion": {
+      "longitud": "-4.791089201651208",
+      "latitud": "37.89620881592253"
+    },
+    "horario": "9:00 a.m. a 22:00 p.m.",
+    "secciones": [
+      {
+        "nombre": "frutería y verdulería",
+        "productos": [
+          {
+            "nombre": "patatas",
+            "descripción": "patatas guarnición",
+            "origen": "españa",
+            "perecedero": true,
+            "ofertas": {
+              "descuento": 0.2,
+              "periodoVigencia": "30/3/2023"
+            },
+            "habitual": true,
+            "unidades": 8,
+            "peso": "1 kg",
+            "precio": 2.25,
+            "fechaEntrada": "27/3/2023 6:00 a.m.",
+            "adquirido": false
+          },
+          {
+            "nombre": "lechuga",
+            "descripción": "lechuga iceberg",
+            "origen": "españa",
+            "perecedero": true,
+            "habitual": false,
+            "unidades": 1,
+            "peso": "0.7 kg",
+            "precio": 0.95,
+            "fechaEntrada": "27/3/2023 6:00 a.m.",
+            "adquirido": true
+          }
+        ]
+      },
+      {
+        "nombre": "charcutería y carnicería",
+        "productos": [
+          {
+            "nombre": "hamburguesas",
+            "descripción": "hamburguesa de vacuno y cerdo",
+            "origen": "españa",
+            "perecedero": true,
+            "habitual": true,
+            "unidades": 6,
+            "peso": "0.54 kg",
+            "precio": 3.79,
+            "fechaEntrada": "27/3/2023 6:00 a.m.",
+            "adquirido": true
+          },
+          {
+            "nombre": "carne picada",
+            "descripción": "preparado de carne picada vacuno y cerdo",
+            "origen": "españa",
+            "perecedero": true,
+            "habitual": false,
+            "unidades": 1,
+            "peso": "0.5 kg",
+            "precio": 3.8,
+            "fechaEntrada": "27/3/2023 6:00 a.m.",
+            "adquirido": false
+          },
+          {
+            "nombre": "pinchos",
+            "descripción": "pinchos de cerdo adobado",
+            "origen": "españa",
+            "perecedero": true,
+            "ofertas": {
+              "descuento": 1.57,
+              "periodoVigencia": "31/3/2023"
+            },
+            "habitual": false,
+            "unidades": 4,
+            "peso": "0.34 kg",
+            "precio": 3.57,
+            "fechaEntrada": "27/3/2023 6:00 a.m.",
+            "adquirido": true
+          }
+        ]
+      },
+      {
+        "nombre": "arroz, legumbres y pasta",
+        "productos": [
+          {
+            "nombre": "arroz",
+            "descripción": "arroz redondo Sos",
+            "origen": "españa",
+            "perecedero": false,
+            "habitual": true,
+            "unidades": 1,
+            "peso": "1 kg",
+            "precio": 1.8,
+            "fechaEntrada": "27/3/2023 6:00 a.m.",
+            "adquirido": false
+          }
+        ]
+      }
+    ]
+  }
+]
